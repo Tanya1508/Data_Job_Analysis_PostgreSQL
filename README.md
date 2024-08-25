@@ -1,0 +1,1 @@
+This project is part of a comprehensive course on SQL Lite and PostgreSQL by, designed to enhance my understanding of database management and data analysis. The project focuses on analyzing job postings in the data industry, with a specific emphasis on identifying trends, salary insights, and job market demand for roles like Data Analysts.
